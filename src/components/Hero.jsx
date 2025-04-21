@@ -3,7 +3,8 @@ import React from 'react';
 const Hero = () => {
     return (
         <div>
-            HERO
+            <img src="/banner.png" alt="banner" />
+
         </div>
     );
 };
